@@ -1,6 +1,6 @@
 # Data Science Training in Electronic City Bangalore | eMexo Technologies
 
-[![Data Science Course](https://www.emexotechnologies.com/wp-content/uploads/2021/07/eMexo-Logo.png)](https://www.emexotechnologies.com/courses/data-science-master-program-certification-training-course/)
+[![Data Science Course](https://www.emexotechnologies.com/wp-content/uploads/2020/02/emexo-logo.png)](https://www.emexotechnologies.com/courses/data-science-master-program-certification-training-course/)
 
 ## 🚀 Overview
 Welcome to the premier hub for **Data Science Training in Electronic City**. As the tech landscape in Bengaluru evolves in 2026, staying ahead requires mastery of data analytics, machine learning, and AI deployment. This repository serves as a guide for professionals seeking the **Best Data Science Training in Electronic City Bangalore**.
